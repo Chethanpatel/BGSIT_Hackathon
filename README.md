@@ -12,11 +12,11 @@ This competition simulates a real-world data science project workflow, testing y
 
 ## ⏰ Event Schedule
 
-- **Event Duration**: 9:30 AM - 4:00 PM
+- **Event Duration**: 9:00 AM - 4:00 PM
 - **Participant Working Time**: 4 hours total
-  - **Session 1**: 11:00 AM - 1:00 PM (2 hours)
+  - **Session 1**: 10:00 AM - 1:00 PM (3 hours)
   - **Lunch Break**: 1:00 PM - 2:00 PM
-  - **Session 2**: 2:00 PM - 3:00 PM (2 hours)
+  - **Session 2**: 2:00 PM - 3:00 PM (1 hours)
 - **Evaluation Time**: 3:00 PM - 4:00 PM (1 hour)
 - **Teams**: 45 teams from East West, Navkis, MIT, AIT, Chikmagaluru, PESITM
 
@@ -37,6 +37,7 @@ Before participating in the hackathon, ensure you have the following setup:
 2. **Git**
    - Must be installed and configured
    - **CRITICAL**: You MUST know how to **FORK and CLONE** repositories
+   - 📺 [Setup Tutorial Videos on YouTube](https://www.youtube.com/results?search_query=install+git+in+wsl+and+set+up)
 
 3. **Python** (Latest stable version recommended)
    - Python 3.8+ required
